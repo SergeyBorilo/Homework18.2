@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TeachingHillel\\Homework18\\University\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0D432-7AB0-4FFE-9A93-101E47C1F2FB}|src\\University.Persistence\\University.Persistence.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.persistence\\migrations\\20250323172530_initialdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0D432-7AB0-4FFE-9A93-101E47C1F2FB}|src\\University.Persistence\\University.Persistence.csproj|solutionrelative:src\\university.persistence\\migrations\\20250323172530_initialdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\departments\\commands\\createdepartment\\createdepartmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\departments\\commands\\createdepartment\\createdepartmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0D432-7AB0-4FFE-9A93-101E47C1F2FB}|src\\University.Persistence\\University.Persistence.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.persistence\\migrations\\universitydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0D432-7AB0-4FFE-9A93-101E47C1F2FB}|src\\University.Persistence\\University.Persistence.csproj|solutionrelative:src\\university.persistence\\migrations\\universitydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106B2B93-B3C7-41CD-9E44-1783EEF1CB89}|src\\University.Core\\University.Core.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.core\\domain\\departments\\data\\createdepartmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106B2B93-B3C7-41CD-9E44-1783EEF1CB89}|src\\University.Core\\University.Core.csproj|solutionrelative:src\\university.core\\domain\\departments\\data\\createdepartmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0D432-7AB0-4FFE-9A93-101E47C1F2FB}|src\\University.Persistence\\University.Persistence.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.persistence\\university.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADA0D432-7AB0-4FFE-9A93-101E47C1F2FB}|src\\University.Persistence\\University.Persistence.csproj|solutionrelative:src\\university.persistence\\university.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE914FB-14A2-46F5-A1DA-1BCD514722B8}|src\\University.Api\\University.Api.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.api\\university.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DE914FB-14A2-46F5-A1DA-1BCD514722B8}|src\\University.Api\\University.Api.csproj|solutionrelative:src\\university.api\\university.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.infrastructure\\university.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:src\\university.infrastructure\\university.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106B2B93-B3C7-41CD-9E44-1783EEF1CB89}|src\\University.Core\\University.Core.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.core\\university.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{106B2B93-B3C7-41CD-9E44-1783EEF1CB89}|src\\University.Core\\University.Core.csproj|solutionrelative:src\\university.core\\university.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\university.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\university.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BARYA\\AppData\\Local\\Temp\\.vsdbgsrc\\76e401b5873fc70cf7e1701fedea8222439ea6c3ea3559a116e0e4eef4e02a0b\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\faculties\\commands\\deletefacultydepartments\\deletefacultydepartmentscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\faculties\\commands\\deletefacultydepartments\\deletefacultydepartmentscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\faculties\\commands\\deletefacultydepartments\\deletefacultydepartmentscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\faculties\\commands\\deletefacultydepartments\\deletefacultydepartmentscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\groups\\commands\\deletegroup\\deletegroupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\groups\\commands\\deletegroup\\deletegroupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\students\\commands\\updatestudent\\updatestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\students\\commands\\updatestudent\\updatestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE914FB-14A2-46F5-A1DA-1BCD514722B8}|src\\University.Api\\University.Api.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.api\\domain\\students\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE914FB-14A2-46F5-A1DA-1BCD514722B8}|src\\University.Api\\University.Api.csproj|solutionrelative:src\\university.api\\domain\\students\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE914FB-14A2-46F5-A1DA-1BCD514722B8}|src\\University.Api\\University.Api.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.api\\domain\\groups\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE914FB-14A2-46F5-A1DA-1BCD514722B8}|src\\University.Api\\University.Api.csproj|solutionrelative:src\\university.api\\domain\\groups\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE914FB-14A2-46F5-A1DA-1BCD514722B8}|src\\University.Api\\University.Api.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.api\\domain\\faculties\\facultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE914FB-14A2-46F5-A1DA-1BCD514722B8}|src\\University.Api\\University.Api.csproj|solutionrelative:src\\university.api\\domain\\faculties\\facultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\faculties\\commands\\deletefaculty\\deletefacultycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\faculties\\commands\\deletefaculty\\deletefacultycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\faculties\\commands\\deletefaculty\\deletefacultycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\faculties\\commands\\deletefaculty\\deletefacultycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\groups\\commands\\deletegroup\\deletegroupcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\groups\\commands\\deletegroup\\deletegroupcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.infrastructure\\application\\domain\\faculties\\queries\\getfaculties\\getfacultiesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:src\\university.infrastructure\\application\\domain\\faculties\\queries\\getfaculties\\getfacultiesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.infrastructure\\core\\domain\\groups\\common\\groupsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:src\\university.infrastructure\\core\\domain\\groups\\common\\groupsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.infrastructure\\application\\domain\\students\\queries\\getstudents\\getstudentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:src\\university.infrastructure\\application\\domain\\students\\queries\\getstudents\\getstudentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.infrastructure\\application\\domain\\groups\\queries\\getgroups\\getgroupsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:src\\university.infrastructure\\application\\domain\\groups\\queries\\getgroups\\getgroupsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\faculties\\queries\\getfacultydetails\\facultydetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\faculties\\queries\\getfacultydetails\\facultydetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\departments\\commands\\createdepartment\\createdepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\departments\\commands\\createdepartment\\createdepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\students\\commands\\updatestudent\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\students\\commands\\updatestudent\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.infrastructure\\application\\domain\\departments\\queries\\getdepartments\\getdepartmentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAA196E-AE52-4687-B803-9F611113F6FC}|src\\University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:src\\university.infrastructure\\application\\domain\\departments\\queries\\getdepartments\\getdepartmentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE914FB-14A2-46F5-A1DA-1BCD514722B8}|src\\University.Api\\University.Api.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.api\\domain\\departments\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE914FB-14A2-46F5-A1DA-1BCD514722B8}|src\\University.Api\\University.Api.csproj|solutionrelative:src\\university.api\\domain\\departments\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|f:\\teachinghillel\\homework18\\university\\src\\university.application\\domain\\departments\\commands\\deletedepartment\\deletedepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C891D0-2CFF-4A9A-B140-0492439F2D73}|src\\University.Application\\University.Application.csproj|solutionrelative:src\\university.application\\domain\\departments\\commands\\deletedepartment\\deletedepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniversityDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Persistence\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\University.Persistence\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Persistence\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\University.Persistence\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:27:09.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250323172530_InitialDatabase.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Persistence\\Migrations\\20250323172530_InitialDatabase.cs",
+              "RelativeDocumentMoniker": "src\\University.Persistence\\Migrations\\20250323172530_InitialDatabase.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Persistence\\Migrations\\20250323172530_InitialDatabase.cs",
+              "RelativeToolTip": "src\\University.Persistence\\Migrations\\20250323172530_InitialDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:25:30.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "University.Persistence.csproj",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Persistence\\University.Persistence.csproj",
+              "RelativeDocumentMoniker": "src\\University.Persistence\\University.Persistence.csproj",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Persistence\\University.Persistence.csproj",
+              "RelativeToolTip": "src\\University.Persistence\\University.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T17:08:01.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "University.Infrastructure.csproj",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\University.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\University.Infrastructure\\University.Infrastructure.csproj",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\University.Infrastructure.csproj",
+              "RelativeToolTip": "src\\University.Infrastructure\\University.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T17:07:44.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "University.Application.csproj",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\University.Application.csproj",
+              "RelativeDocumentMoniker": "src\\University.Application\\University.Application.csproj",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\University.Application.csproj",
+              "RelativeToolTip": "src\\University.Application\\University.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T17:07:33.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "University.Api.csproj",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Api\\University.Api.csproj",
+              "RelativeDocumentMoniker": "src\\University.Api\\University.Api.csproj",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Api\\University.Api.csproj",
+              "RelativeToolTip": "src\\University.Api\\University.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T17:04:34.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "University.Core.csproj",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Core\\University.Core.csproj",
+              "RelativeDocumentMoniker": "src\\University.Core\\University.Core.csproj",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Core\\University.Core.csproj",
+              "RelativeToolTip": "src\\University.Core\\University.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T17:04:28.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteFacultyCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFaculty\\DeleteFacultyCommand.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFaculty\\DeleteFacultyCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFaculty\\DeleteFacultyCommand.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFaculty\\DeleteFacultyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:43:18.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteFacultyCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFaculty\\DeleteFacultyCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFaculty\\DeleteFacultyCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFaculty\\DeleteFacultyCommandHandler.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFaculty\\DeleteFacultyCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:43:08.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetFacultiesQueryHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\Application\\Domain\\Faculties\\Queries\\GetFaculties\\GetFacultiesQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\University.Infrastructure\\Application\\Domain\\Faculties\\Queries\\GetFaculties\\GetFacultiesQueryHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\Application\\Domain\\Faculties\\Queries\\GetFaculties\\GetFacultiesQueryHandler.cs",
+              "RelativeToolTip": "src\\University.Infrastructure\\Application\\Domain\\Faculties\\Queries\\GetFaculties\\GetFacultiesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:41:50.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Api\\Domain\\Students\\StudentsController.cs",
+              "RelativeDocumentMoniker": "src\\University.Api\\Domain\\Students\\StudentsController.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Api\\Domain\\Students\\StudentsController.cs",
+              "RelativeToolTip": "src\\University.Api\\Domain\\Students\\StudentsController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAIAwwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:41:40.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GroupsRepository.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\Core\\Domain\\Groups\\Common\\GroupsRepository.cs",
+              "RelativeDocumentMoniker": "src\\University.Infrastructure\\Core\\Domain\\Groups\\Common\\GroupsRepository.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\Core\\Domain\\Groups\\Common\\GroupsRepository.cs",
+              "RelativeToolTip": "src\\University.Infrastructure\\Core\\Domain\\Groups\\Common\\GroupsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:41:35.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Api\\Domain\\Groups\\GroupsController.cs",
+              "RelativeDocumentMoniker": "src\\University.Api\\Domain\\Groups\\GroupsController.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Api\\Domain\\Groups\\GroupsController.cs",
+              "RelativeToolTip": "src\\University.Api\\Domain\\Groups\\GroupsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAwwDsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:41:33.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetStudentsQueryHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\Application\\Domain\\Students\\Queries\\GetStudents\\GetStudentsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\University.Infrastructure\\Application\\Domain\\Students\\Queries\\GetStudents\\GetStudentsQueryHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\Application\\Domain\\Students\\Queries\\GetStudents\\GetStudentsQueryHandler.cs",
+              "RelativeToolTip": "src\\University.Infrastructure\\Application\\Domain\\Students\\Queries\\GetStudents\\GetStudentsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:41:32.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetGroupsQueryHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\Application\\Domain\\Groups\\Queries\\GetGroups\\GetGroupsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\University.Infrastructure\\Application\\Domain\\Groups\\Queries\\GetGroups\\GetGroupsQueryHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\Application\\Domain\\Groups\\Queries\\GetGroups\\GetGroupsQueryHandler.cs",
+              "RelativeToolTip": "src\\University.Infrastructure\\Application\\Domain\\Groups\\Queries\\GetGroups\\GetGroupsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:41:30.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FacultyDetailsDto.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Faculties\\Queries\\GetFacultyDetails\\FacultyDetailsDto.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Faculties\\Queries\\GetFacultyDetails\\FacultyDetailsDto.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Faculties\\Queries\\GetFacultyDetails\\FacultyDetailsDto.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Faculties\\Queries\\GetFacultyDetails\\FacultyDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:41:14.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FacultiesController.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Api\\Domain\\Faculties\\FacultiesController.cs",
+              "RelativeDocumentMoniker": "src\\University.Api\\Domain\\Faculties\\FacultiesController.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Api\\Domain\\Faculties\\FacultiesController.cs",
+              "RelativeToolTip": "src\\University.Api\\Domain\\Faculties\\FacultiesController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAMwFUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:41:09.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BARYA\\AppData\\Local\\Temp\\.vsdbgsrc\\76e401b5873fc70cf7e1701fedea8222439ea6c3ea3559a116e0e4eef4e02a0b\\Program.cs",
+              "ToolTip": "C:\\Users\\BARYA\\AppData\\Local\\Temp\\.vsdbgsrc\\76e401b5873fc70cf7e1701fedea8222439ea6c3ea3559a116e0e4eef4e02a0b\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:40:55.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateStudentCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Students\\Commands\\UpdateStudent\\UpdateStudentCommand.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Students\\Commands\\UpdateStudent\\UpdateStudentCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Students\\Commands\\UpdateStudent\\UpdateStudentCommand.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Students\\Commands\\UpdateStudent\\UpdateStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:38:23.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateStudentCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Students\\Commands\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Students\\Commands\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Students\\Commands\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Students\\Commands\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:38:03.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateDepartmentData.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Core\\Domain\\Departments\\Data\\CreateDepartmentData.cs",
+              "RelativeDocumentMoniker": "src\\University.Core\\Domain\\Departments\\Data\\CreateDepartmentData.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Core\\Domain\\Departments\\Data\\CreateDepartmentData.cs",
+              "RelativeToolTip": "src\\University.Core\\Domain\\Departments\\Data\\CreateDepartmentData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:37:42.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetDepartmentsQueryHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\Application\\Domain\\Departments\\Queries\\GetDepartments\\GetDepartmentsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\University.Infrastructure\\Application\\Domain\\Departments\\Queries\\GetDepartments\\GetDepartmentsQueryHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Infrastructure\\Application\\Domain\\Departments\\Queries\\GetDepartments\\GetDepartmentsQueryHandler.cs",
+              "RelativeToolTip": "src\\University.Infrastructure\\Application\\Domain\\Departments\\Queries\\GetDepartments\\GetDepartmentsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:37:05.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Api\\Domain\\Departments\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "src\\University.Api\\Domain\\Departments\\DepartmentsController.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Api\\Domain\\Departments\\DepartmentsController.cs",
+              "RelativeToolTip": "src\\University.Api\\Domain\\Departments\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:37:00.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteDepartmentCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Departments\\Commands\\DeleteDepartment\\DeleteDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Departments\\Commands\\DeleteDepartment\\DeleteDepartmentCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Departments\\Commands\\DeleteDepartment\\DeleteDepartmentCommand.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Departments\\Commands\\DeleteDepartment\\DeleteDepartmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:36:35.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateDepartmentCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Departments\\Commands\\CreateDepartment\\CreateDepartmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Departments\\Commands\\CreateDepartment\\CreateDepartmentCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Departments\\Commands\\CreateDepartment\\CreateDepartmentCommandHandler.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Departments\\Commands\\CreateDepartment\\CreateDepartmentCommandHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwA8AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:36:30.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateDepartmentCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Departments\\Commands\\CreateDepartment\\CreateDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Departments\\Commands\\CreateDepartment\\CreateDepartmentCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Departments\\Commands\\CreateDepartment\\CreateDepartmentCommand.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Departments\\Commands\\CreateDepartment\\CreateDepartmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:36:28.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteGroupCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Groups\\Commands\\DeleteGroup\\DeleteGroupCommand.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Groups\\Commands\\DeleteGroup\\DeleteGroupCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Groups\\Commands\\DeleteGroup\\DeleteGroupCommand.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Groups\\Commands\\DeleteGroup\\DeleteGroupCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:35:48.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteGroupCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Groups\\Commands\\DeleteGroup\\DeleteGroupCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Groups\\Commands\\DeleteGroup\\DeleteGroupCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Groups\\Commands\\DeleteGroup\\DeleteGroupCommandHandler.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Groups\\Commands\\DeleteGroup\\DeleteGroupCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:35:42.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteFacultyDepartmentsCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFacultyDepartments\\DeleteFacultyDepartmentsCommand.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFacultyDepartments\\DeleteFacultyDepartmentsCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFacultyDepartments\\DeleteFacultyDepartmentsCommand.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFacultyDepartments\\DeleteFacultyDepartmentsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:35:12.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteFacultyDepartmentsCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFacultyDepartments\\DeleteFacultyDepartmentsCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFacultyDepartments\\DeleteFacultyDepartmentsCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework18\\University\\src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFacultyDepartments\\DeleteFacultyDepartmentsCommandHandler.cs",
+              "RelativeToolTip": "src\\University.Application\\Domain\\Faculties\\Commands\\DeleteFacultyDepartments\\DeleteFacultyDepartmentsCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:34:58.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
